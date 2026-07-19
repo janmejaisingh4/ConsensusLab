@@ -4,8 +4,6 @@
 
 ConsensusLab is a full-stack GenAI application that improves answer quality using **self-consistency**. It sends the same question to OpenAI, Claude, and Gemini in parallel, then asks an evaluator to combine their strongest reasoning into one original answer.
 
-**Live demo:** https://consensus-lab.cyd3er.chatgpt.site
-
 ## Architecture
 
 ```text
@@ -205,8 +203,4 @@ vercel --prod
 
 ## Author
 
-**Janmejai Singh** — https://github.com/janmejaisingh4
-
-## License
-
-MIT
+**Janmejai Singh**
